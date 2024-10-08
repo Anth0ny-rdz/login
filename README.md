@@ -1,5 +1,4 @@
 
-Aquí tienes un ejemplo de un archivo README.md para tu proyecto Django con Django REST Framework:
 
 Proyecto Django: Sistema de Gestión de Artículos con API REST
 Este proyecto es una aplicación web básica construida con Django que incluye una API REST para la gestión de artículos. Utiliza Django REST Framework para exponer la API que permite crear, leer, actualizar y eliminar artículos.
